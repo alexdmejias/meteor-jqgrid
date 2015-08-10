@@ -1,0 +1,4 @@
+[submodule "lib/jqGrid"]
+	path = lib/jqGrid
+	url = git@github.com:tonytomov/jqGrid.git
+	branch = master
